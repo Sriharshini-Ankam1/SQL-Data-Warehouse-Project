@@ -42,7 +42,7 @@ The Gold Layer is the business-level data representation, structured to support 
 | product_line        | NVARCHAR(50)  | The specific product line or series to which the product belongs (e.g., Road, Mountain).      |
 | start_date          | DATE          | The date when the product became available for sale or use, stored in|
 
----
+--
 
 ### 3. **gold.fact_sales**
 - **Purpose:** Stores transactional sales data for analytical purposes.
