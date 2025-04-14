@@ -51,6 +51,8 @@ data-warehouse-project/
 │   ├── data_architecture.drawio        # Draw.io file shows the project's architecture
 │   ├── data_catalog.md                 # Catalog of datasets, including field descriptions and metadata
 │   ├── data_flow.drawio                # Draw.io file for the data flow diagram
+│   ├── data_integration.drawio         # Draw.io file for the data integration diagram
+│   ├── data_layers.pdf                 # pdf file for the layers - bronze, silver, gold
 │   ├── data_models.drawio              # Draw.io file for data models (star schema)
 │   ├── naming-conventions.md           # Consistent naming guidelines for tables, columns, and files
 │
@@ -61,8 +63,8 @@ data-warehouse-project/
 │
 ├── tests/                              # Test scripts and quality files
 │
-├── README.md                           # Project overview and instructions
-└──  LICENSE                             # License information for the repository
+├── LICENSE                            # Project overview and instructions
+└── README.md                          # License information for the repository
 ```
 
 
